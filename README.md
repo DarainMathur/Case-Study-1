@@ -25,3 +25,12 @@
 9. Due to lack of time, I wasn't able to try any other models.
 
 10. One interesting thing was that the models with default hyperparamter setting gave the best result when compared to GridSearchCV fine-tuned models, the code for fine tuning was taken down as it made no improvement to the model.
+
+
+POSSIBLE IMPOROVEMENTS:
+
+1.Collect more data to reduce overfitting.
+
+2.Do more EDA to filter out features that made minimal impact on model accuracy.
+
+3. Experiment with more hyper-parameter tuning to improve performance.
