@@ -29,8 +29,8 @@
 
 POSSIBLE IMPOROVEMENTS:
 
-1.Collect more data to reduce overfitting.
+1. Collect more data to reduce overfitting.
 
-2.Do more EDA to filter out features that made minimal impact on model accuracy.
+2. Do more EDA to filter out features that made minimal impact on model accuracy.
 
 3. Experiment with more hyper-parameter tuning to improve performance.
